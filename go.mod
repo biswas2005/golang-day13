@@ -1,0 +1,3 @@
+module golang-day13
+
+go 1.25.5
